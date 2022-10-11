@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
  
-![Lincoln GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoryantunes&theme=dracula)
+![Gregory GitHub stats](https://github-readme-stats.vercel.app/api?username=gregoryantunes&theme=dracula)
 <br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryantunes&layout=compact)
